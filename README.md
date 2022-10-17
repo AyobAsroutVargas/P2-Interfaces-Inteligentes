@@ -63,4 +63,4 @@ Aumentando tamaño del jugador:
 
 Aumentando tamaño de los cilindros:
 
-![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/3-1-2.gif)
+![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/3-1-b.gif)
