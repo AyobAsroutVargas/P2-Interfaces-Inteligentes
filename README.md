@@ -52,3 +52,9 @@ La esfera cae sobre el plano y el cubo cae sobre la esfera y se mantiene sobre e
 Para la rotacion sobre el eje y se ha creado un nuevo eje virtual llamado "YRotation" con botones positivos "y" y "q" y botones negativos "z" y "b".
 
 ![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/2.gif)
+
+# 3. Sobre la escena que has trabajado programa los scripts necesarios para las siguientes acciones
+
+## Se deben incluir varios cilindros sobre la escena. Cada vez que el objeto jugador colisione con alguno de ellos, deben aumentar su tamaño y el jugador aumentar puntuación
+
+![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/3-1.gif)
