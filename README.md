@@ -4,15 +4,15 @@
 
 a. Ninguno de los objetos será físico.
 
-
+Ambos objetos quedan suspendidos en el aire puesto que no se le aplican fisicas
 
 b. La esfera tiene físicas, el cubo no.
 
-
+La esfera cae sobre el plano pero el cubo sigue suspendido en el aire
 
 c. La esfera y el cubo tienen físicas.
 
-
+La esfera cae sobre el plano y el cubo cae sobre la esfera, rota y cae sobre el plano
 
 d. La esfera y el cubo son físicos y la esfera tiene 10 veces la masa del cubo.
 
