@@ -71,11 +71,11 @@ Aumentando tamaño de los cilindros:
 
 ## Se deben incluir cilindros que se alejen del jugador cuando esté próximo.
 
-![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/P2%20-%20SampleScene%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202021.3.6f1_%20_DX11_%202022-10-18%2000-16-45_Trim.gif)
+![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/3-3.gif)
 
 ## Ubicar un tercer objeto que sea capaz de detectar colisiones y que se mueva con las teclas: I, L, J, M
 
-![]()
+![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/3-4.gif)
 
 ## Debes ubicar cubos que que aumentan de tamaño cuando se le acerca una esfera y que disminuye cuando se le acerca el jugador.
 
