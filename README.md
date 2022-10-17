@@ -68,3 +68,15 @@ Aumentando tamaño de los cilindros:
 ## Agregar cilindros de tipo A, en los que además, si el jugador pulsa la barra espaciadora lo mueve hacia fuera de él.
 
 ![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/3-2.gif)
+
+## Se deben incluir cilindros que se alejen del jugador cuando esté próximo.
+
+![]()
+
+## Ubicar un tercer objeto que sea capaz de detectar colisiones y que se mueva con las teclas: I, L, J, M
+
+![]()
+
+## Debes ubicar cubos que que aumentan de tamaño cuando se le acerca una esfera y que disminuye cuando se le acerca el jugador.
+
+![]()
