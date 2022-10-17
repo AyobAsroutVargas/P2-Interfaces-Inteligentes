@@ -43,3 +43,12 @@ La esfera cae sobre el plano y el cubo cae atravesando la esfera y el plano pues
 La esfera cae sobre el plano y el cubo cae sobre la esfera y se mantiene sobre esta
 
   ![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/1-g%20(online-video-cutter.com).gif)
+  
+  
+# 2. Sobre la escena que has trabajado ubica un cubo que represente un personaje que vas a mover. Se debe implementar un script que haga de CharacterController. Cuando el jugador pulse las teclas de flecha (o aswd) el jugador se moverá en la dirección que estos ejes indican.
+
+## Elegir otros ejes virtuales para el giro y girar al jugador sobre el eje OY (up).
+
+Para la rotacion sobre el eje y se ha creado un nuevo eje virtual llamado "YRotation" con botones positivos "y" y "q" y botones negativos "z" y "b".
+
+![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/2.gif)
