@@ -57,4 +57,10 @@ Para la rotacion sobre el eje y se ha creado un nuevo eje virtual llamado "YRota
 
 ## Se deben incluir varios cilindros sobre la escena. Cada vez que el objeto jugador colisione con alguno de ellos, deben aumentar su tamaño y el jugador aumentar puntuación
 
+Aumentando tamaño del jugador:
+
 ![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/3-1.gif)
+
+Aumentando tamaño de los cilindros:
+
+![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/3-1-2.gif)
