@@ -67,4 +67,4 @@ Aumentando tamaño de los cilindros:
 
 ## Agregar cilindros de tipo A, en los que además, si el jugador pulsa la barra espaciadora lo mueve hacia fuera de él.
 
-![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/3-2-b.gif)
+![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/3-2.gif)
