@@ -79,4 +79,4 @@ Aumentando tamaño de los cilindros:
 
 ## Debes ubicar cubos que que aumentan de tamaño cuando se le acerca una esfera y que disminuye cuando se le acerca el jugador.
 
-![]()
+![](https://github.com/alu0101350158/P2-Interfaces-Inteligentes/blob/main/media/3-5.gif)
